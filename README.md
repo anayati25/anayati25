@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @anayati25
-- 👀 I’m interested in learning Tableau, R and PowerBI ...
-- 🌱 I’m currently learning Data Analytics...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Aatir 👋
 
-<!---
-anayati25/anayati25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- Data Analyst passionate about data visualization and business intelligence
+- Skilled in Power BI, SQL, Excel, and Tableau
+- Experience in Software Testing, Data Cleaning and Data Visualization
+- Currently building portfolio projects focused on healthcare and business analytics
+
+## Technical Skills
+- Power BI
+- SQL
+- Excel
+- Tableau
+- Software Testing
+- Data Visualization
+
+## Featured Projects
+
+### Stuttering Analysis Dashboard
+Power BI dashboard analyzing speech patterns, demographics, and treatment outcomes.
+
+### Healthcare Analytics
+Data analysis projects focused on healthcare datasets and operational insights.
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: your.email@example.com
