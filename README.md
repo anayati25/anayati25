@@ -21,7 +21,3 @@ Power BI dashboard analyzing speech patterns, demographics, and treatment outcom
 
 ### Healthcare Analytics
 Data analysis projects focused on healthcare datasets and operational insights.
-
-## Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: your.email@example.com
